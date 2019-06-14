@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1016554853938",
+    "firebase_url": "https://money-4cb9c.firebaseio.com",
+    "project_id": "money-4cb9c",
+    "storage_bucket": "money-4cb9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016554853938:android:ba47a2fb028c1550",
+        "android_client_info": {
+          "package_name": "com.example.moneyfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016554853938-m9fhjenkdm8s2aesllc84ra4ehvbb9ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moneyfire",
+            "certificate_hash": "b78d58bb373107701a80f943ffbef6f2f6fc0afa"
+          }
+        },
+        {
+          "client_id": "1016554853938-b3a4ela3r8abtnb5ajudpo0bl01bf98s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_Sd7P99XxFT5YwaDzN8UbLntP8YowPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016554853938-b3a4ela3r8abtnb5ajudpo0bl01bf98s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
